@@ -1,0 +1,3 @@
+[submodule "fronted"]
+	path = fronted
+	url = https://github.com/Joaquin2705/proyectoDBP.git
